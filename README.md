@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ohpithon/ohpithon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ohpithon
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello%2C+World+%F0%9F%91%8B;Welcome+to+my+profile.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohpithon&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ohpithon&theme=tokyonight&hide_border=true)
+
+</div>
